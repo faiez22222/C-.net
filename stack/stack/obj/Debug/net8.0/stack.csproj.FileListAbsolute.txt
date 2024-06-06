@@ -1,0 +1,14 @@
+C:\Users\faiez\source\repos\stack\stack\bin\Debug\net8.0\stack.exe
+C:\Users\faiez\source\repos\stack\stack\bin\Debug\net8.0\stack.deps.json
+C:\Users\faiez\source\repos\stack\stack\bin\Debug\net8.0\stack.runtimeconfig.json
+C:\Users\faiez\source\repos\stack\stack\bin\Debug\net8.0\stack.dll
+C:\Users\faiez\source\repos\stack\stack\bin\Debug\net8.0\stack.pdb
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.AssemblyInfoInputs.cache
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.AssemblyInfo.cs
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.dll
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\refint\stack.dll
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.pdb
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\stack.genruntimeconfig.cache
+C:\Users\faiez\source\repos\stack\stack\obj\Debug\net8.0\ref\stack.dll

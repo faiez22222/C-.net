@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faiez\\source\\repos\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|c:\\users\\faiez\\source\\repos\\bankaccount\\bankaccount\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|c:\\users\\faiez\\source\\repos\\bankaccount\\bankaccount\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|c:\\users\\faiez\\source\\repos\\bankaccount\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|c:\\users\\faiez\\source\\repos\\bankaccount\\bankaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD48207-100A-4DC8-95EF-DE09751AA096}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\MainMethod.cs",
+              "RelativeDocumentMoniker": "BankAccount\\MainMethod.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\MainMethod.cs",
+              "RelativeToolTip": "BankAccount\\MainMethod.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:21:36.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\AccountManager.cs",
+              "RelativeDocumentMoniker": "BankAccount\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\AccountManager.cs",
+              "RelativeToolTip": "BankAccount\\AccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:14:00.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\Account.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Account.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\Account.cs",
+              "RelativeToolTip": "BankAccount\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:09:47.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\faiez\\source\\repos\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeToolTip": "BankAccount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:09:16.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

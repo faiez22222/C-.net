@@ -1,0 +1,14 @@
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\bin\Debug\net8.0\StudentDetail.exe
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\bin\Debug\net8.0\StudentDetail.deps.json
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\bin\Debug\net8.0\StudentDetail.runtimeconfig.json
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\bin\Debug\net8.0\StudentDetail.dll
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\bin\Debug\net8.0\StudentDetail.pdb
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.AssemblyInfoInputs.cache
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.AssemblyInfo.cs
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.csproj.CoreCompileInputs.cache
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.dll
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\refint\StudentDetail.dll
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.pdb
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\StudentDetail.genruntimeconfig.cache
+C:\Users\faiez\source\repos\StudentDetail\StudentDetail\obj\Debug\net8.0\ref\StudentDetail.dll
